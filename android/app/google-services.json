@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333616663251",
+    "project_id": "sphinxfury",
+    "storage_bucket": "sphinxfury.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333616663251:android:3a9d5a5a892438610ce226",
+        "android_client_info": {
+          "package_name": "com.legendsphinx.sphinxfury"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCli-o_mXKw5Rqj4j8VfqrE-TcTyxkzVRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

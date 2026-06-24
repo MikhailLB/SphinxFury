@@ -1,8 +1,8 @@
 name: sphinx_fury
-description: "Sphinx Fury - Egyptian Sliding Puzzle Game"
+description: "Sphinx Fury — Egyptian sliding puzzle adventure"
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: ^3.12.2
@@ -11,7 +11,26 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  webview_flutter: ^4.10.0
+
+  webview_flutter: ^4.13.1
+  webview_flutter_android: ^4.11.0
+
+  shared_preferences: ^2.5.3
+  flutter_secure_storage: ^10.0.0
+
+  http: ^1.4.0
+  connectivity_plus: ^6.1.5
+  device_info_plus: ^11.5.0
+  package_info_plus: ^8.3.1
+  url_launcher: ^6.3.2
+  file_picker: ^11.0.2
+
+  appsflyer_sdk: ^6.16.0
+
+  firebase_core: ^4.7.0
+  firebase_messaging: ^16.0.3
+  firebase_app_check: ^0.4.5
+  flutter_local_notifications: ^18.0.1
 
 dev_dependencies:
   flutter_test:
@@ -40,3 +59,5 @@ flutter:
     - assets/pharaoh.webp
     - assets/ra.webp
     - assets/sphx.webp
+    - assets/Nowifi/
+    - assets/Notifications/
